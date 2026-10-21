@@ -1,0 +1,17 @@
+{
+  "source": "CCIL NSS zero-coupon curve",
+  "sourceUrl": "https://www.ccilindia.com/zcyc-parameters",
+  "asOf": "2026-10-15",
+  "retrievedAt": "2026-10-16T12:56:16.925Z",
+  "compounding": "continuous",
+  "conventionUnverified": true,
+  "note": "NSS spot yields from CCIL. Compounding convention must be verified; continuous is an explicit research assumption. Short maturities use the fitted NSS curve, not separately observed daily tenors.",
+  "nss": {
+    "beta0": 8.3543,
+    "beta1": -3.0573,
+    "beta2": -19.6267,
+    "beta3": 20,
+    "tau1": 2.4741,
+    "tau2": 2.2375
+  }
+}
