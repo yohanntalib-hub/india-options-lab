@@ -1,0 +1,3 @@
+protobufjs 8.8.1, BSD-3-Clause: https://github.com/protobufjs/protobuf.js
+Schema: https://assets.upstox.com/feed/market-data-feed/v3/MarketDataFeed.proto
+Retrieved 2026-10-16
